@@ -1,0 +1,12 @@
+---
+import fs from 'fs';
+const posts = await fs.promises.readdir('./src/pages/posts');
+---
+<Layout title="My Artistic Blog">
+  <h2>Latest Posts</h2>
+  <ul>
+    {posts.map(post => (
+      <li><a href={`/posts/${post.replace('.md', '')}`}>{post.replace('.md', '').replace(/-/g, ' ')}</a></li>
+    ))}
+  </ul>
+</Layout>

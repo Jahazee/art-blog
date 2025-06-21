@@ -1,0 +1,31 @@
+---
+title: Watercolor Dreams – My Latest Landscape Series
+description: A peek into my newest watercolor landscape artworks inspired by Indian monsoons. Explore colors, mood, and meaning.
+tags: [watercolor, landscape art, Indian monsoon, artist blog]
+---
+
+<Layout title="Watercolor Dreams – My Latest Landscape Series">
+
+Welcome to my art corner! 🎨
+
+In this series, I experimented with **transparency and light** in watercolor to capture the ethereal quality of the monsoon.
+
+## 🖼️ Featured Artworks
+
+- *Rain Over Udaipur*
+- *Twilight Reflections*
+- *Verdant Hills*
+
+Each piece explores how water influences form and memory.
+
+## 🎯 Techniques Used
+
+- Wet-on-wet gradients
+- Salt texture effects
+- Layered glazes
+
+## 🌐 Let’s Connect
+
+Love what you see? [Follow me on Instagram](https://instagram.com/yourhandle) or [Buy Prints](https://yourshop.com)
+
+</Layout>
