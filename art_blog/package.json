@@ -1,5 +1,5 @@
 {
-  "name": "artistic-blog",
+  "name": "astro-art-blog",
   "type": "module",
   "scripts": {
     "dev": "astro dev",
